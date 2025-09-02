@@ -18,6 +18,7 @@ In early February 2024, unprecedented snowfall led to massive avalanches across 
 🛡️ Strategic Readiness & Area Domination
 
 🚁 Key Highlights
+
 ✅ Massive Evacuation Efforts
 
 Over 500 civilians rescued from avalanche-prone zones.
@@ -52,12 +53,3 @@ Necessity of civil-military synergy
 
 Value of data and AI in natural disaster prediction
 
-🇮🇳 Legacy & Impact
-
-While Operation Sindoor was a tactical success, its broader significance lies in:
-
-Reaffirming India’s commitment to its border communities
-
-Setting a benchmark in HADR operations in high-altitude terrain
-
-Demonstrating the Indian Armed Forces’ capability to handle dual crises: natural disasters and military threats
